@@ -19,10 +19,6 @@ namespace Me {
             "Assembly (x64)",
             "NTAPI"
         };
-
-        inline const char* getDisclaimer() const {
-            return "I'm just a guy who likes coding, don't expect miracles";
-        }
     };
 }
 ```
