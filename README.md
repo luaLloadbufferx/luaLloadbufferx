@@ -16,8 +16,7 @@ namespace Me {
 
         std::vector<std::string> learning = {
             "C++",
-            "Assembly (x64)",
-            "NTAPI"
+            "PHP"
         };
     };
 }
